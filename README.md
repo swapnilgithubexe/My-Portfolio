@@ -1,70 +1,81 @@
-# Getting Started with Create React App
+# Swapnil Dutta - Professional Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my professional portfolio! I am a dedicated and motivated IT/Networking professional with a year of experience in the IT domain, specializing in software engineering, data analysis, and network administration. This document provides an overview of my experience, skills, and projects.
 
-## Available Scripts
+## Contact Information
 
-In the project directory, you can run:
+- **Phone:** +91 7999600540
+- **Email:** [Swapnildutta2002@gmail.com](mailto:Swapnildutta2002@gmail.com)
+- **LinkedIn:** [Swapnil Dutta](https://www.linkedin.com/in/swapnil-dutta4b3385200/)
+- **GitHub:** [swapnilgithubexe](https://github.com/swapnilgithubexe)
 
-### `npm start`
+## Work Experience
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Senior Software Engineer, Capgemini
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**Aug 2022 - Nov 2023**
 
-### `npm test`
+- **Focus Brands**:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  - Maintained and optimized the Oracle RAC database, responsible for item additions and modifications, ensuring data accuracy and system reliability.
+  - Utilized Meraki Dashboard for overseeing and maintaining firewall configurations, enhancing network security and compliance with industry standards.
+  - Managed network equipment for seven franchises of NCR Corporation and Viking Clouds, ensuring seamless operations and optimal performance.
+  - Conducted rigorous testing of electronic equipment, identifying and rectifying defects, and contributing to a robust quality control process.
 
-### `npm run build`
+- **Subway**:
+  - Streamlined order processing and decision logic implementation through the Subway menu manager Dashboard, improving procurement procedures and data-driven decision-making.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Junior Data Analyst, Netlink Software Pvt Ltd
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**July 2021 - Oct 2021**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Performed hypothetical testing (Z-test and T-test) on a random sample from the dataset.
+- Conducted internal audits on financial discrepancies with the team.
+- Performed comprehensive exploratory data analysis (EDA) to gain insights into data patterns.
+- Cleaned and pre-processed attrition data of users and employees, contributing to the development of Lumenore, a data analytical tool.
+- Achieved a churn model with an AUC value of 78% (0.78).
 
-### `npm run eject`
+## Education
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**B.Tech - Computer Science and Engineering**  
+Alliance University, Bangalore  
+**2018 - 2022**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Skills
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Technical/Programming Skills
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- JavaScript (Beginner)
+- Python (Intermediate)
+- HTML & CSS
+- RESTful APIs
+- Event Testing
+- Defect Logging
+- SQL
+- Network Administration
 
-## Learn More
+### Tools/Software
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Postman
+- Google Tag Manager (GTM)
+- Meraki Dashboard
+- Snow
+- Jira
+- CMC Software
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Certification/Short Courses
 
-### Code Splitting
+- Cybersecurity Essentials by Capgemini
+- Microsoft Azure Cloud Services by Capgemini
+- Microsoft Azure Services and Lifecycles by Capgemini
+- Microsoft Azure Management Tools and Security Solutions
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Projects
 
-### Analyzing the Bundle Size
+- **Seat Booking Application**: [Link to project or description]
+- **Weather Application**: [Link to project or description]
+- **Music Player (Ongoing)**: [Link to project or description]
+- **Foot Ulcer Detection using R-CNN**: [Link to project or description]
+- **Canada-based EMS using Teta**: [Link to project or description]
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feel free to reach out to me if you have any questions or opportunities for collaboration. Thank you for visiting my portfolio!
