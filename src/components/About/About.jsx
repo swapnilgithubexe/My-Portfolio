@@ -1,6 +1,6 @@
-import React, { useEffect, useState } from 'react'
+import { useEffect, useState } from 'react'
 import './About.scss'
-import Animation from '../../AnimatedLetters/Animation'
+import Animation from '../AnimatedLetters/Animation'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {
   faCss3,
@@ -35,20 +35,23 @@ const About = () => {
             />
           </h1>
           <p>
-            dummy text of the printing and typesetting industry. Lorem Ipsum has
-            been the industry's standard dummy text ever since the 1500s, when
-            an unknown printer took a galley of type and scrambled it to make a
-            type specimen book.{' '}
+            <h3>👋 Hi, I’m Swapnil Dutta. Welcome to My Portfolio!</h3>{' '}
           </p>
           <p>
-            It has survived not only five centuries, but also the leap into
-            electronic typesetting, remaining essentially unchanged.{' '}
+            I’m a passionate and curious developer (and lifelong learner) with a
+            strong focus on building meaningful, functional, and user-friendly
+            digital experiences. This portfolio is a glimpse into my journey —
+            my projects, my skills, and the kind of work I enjoy doing.
           </p>
           <p>
-            It was popularised in the 1960s with the release of Letraset sheets
-            containing Lorem Ipsum passages, and more recently with desktop
-            publishing software like Aldus PageMaker including versions of Lorem
-            Ipsum.
+            Whether it's crafting clean, efficient code, solving real-world
+            problems through software, or learning something new every day — I
+            love what I do.{' '}
+          </p>
+
+          <p>
+            You’ll find everything from hands-on development work to creative
+            solutions I’ve built across various tools, stacks, and platforms.{' '}
           </p>
         </div>
 

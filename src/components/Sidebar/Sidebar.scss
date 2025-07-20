@@ -72,17 +72,17 @@
     }
     a.about-link {
       &:after {
-        content: 'ABOUT';
+        content: 'About';
       }
     }
     a.contact-link {
       &:after {
-        content: 'CONTACT';
+        content: 'Contact';
       }
     }
     a.project-link {
       &:after {
-        content: 'PROJECTS';
+        content: 'My Work';
       }
     }
     a.active {
