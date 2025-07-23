@@ -1,6 +1,7 @@
 import ReactCardCarousel from 'react-card-carousel'
 import { data } from '../../assets/contants/data' // assuming data is an array
 import './myWork.scss'
+import Card from './Card'
 const CARD_STYLE = {
   height: '400px',
   width: '400px',
@@ -25,9 +26,7 @@ const MyWork = () => {
     <div className="carousel-container">
       <ReactCardCarousel autoplay={true} autoplay_speed={3500}>
         {data.map((item, index) => (
-          <div style={CARD_STYLE} key={index}>
-            {item.projectName}
-          </div>
+          <Card style={CARD_STYLE} item={item} key={index} />
         ))}
       </ReactCardCarousel>
     </div>

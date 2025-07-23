@@ -1,0 +1,24 @@
+/* From Uiverse.io by alexmaracinaru */
+button {
+  cursor: pointer;
+  font-weight: 400;
+  padding: 10px 20px;
+  border-radius: 100px;
+  background: #cfef00;
+  border: 1px solid transparent;
+  font-size: 15px;
+}
+
+button:hover {
+  background: #c4e201;
+}
+
+button > svg {
+  width: 34px;
+}
+
+li {
+  list-style-position: initial;
+  /* padding-left: 5px;
+  margin-left: 0; */
+}
